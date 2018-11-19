@@ -23,4 +23,4 @@ Start by downloading the app and going through all possible actions, focusing on
 * Is it easy to find information/support?
 
 ### Submission
-Identify 5 usability issues with the app's existing design. Create a markdown file in your forked repo with a brief write-up relating usability heuristics to the issues you have identified, along with screenshots with annotations for reference. 
+Identify 5 usability issues with the app's existing design. Create a Medium post with brief write-up relating usability heuristics to the issues you have identified, along with screenshots with annotations for reference.
