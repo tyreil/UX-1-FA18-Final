@@ -1,5 +1,5 @@
 # UX 1 Final 
-## Part One - Pain Points 
+## Part One - Heuristic Evaluation
 Choose a unique app that no one else has selected yet from your section of UX 1, and sign up for it through [this spreadsheet](https://docs.google.com/spreadsheets/d/1ro0M7ucmMkKDUlOn_015SXwmw00CK6N2K1V_zLxJMO4/edit?usp=sharing).
 
 Then, get ready to dive deep: you’ll design thoughtful solutions to its top usability issues. You’ll also build a compelling case study showing employers the research and strategy behind your improved design.
@@ -22,5 +22,22 @@ Start by downloading the app and going through all possible actions, focusing on
 * Are links/features clearly accessible?
 * Is it easy to find information/support?
 
-### Submission
+### Submission - Part One
 Identify 5 usability issues with the app's existing design. Create a Medium post with brief write-up relating usability heuristics to the issues you have identified, along with screenshots with annotations for reference.
+
+
+## Part Two - User Flows
+Effective UX is more than the sum of its parts—designers must consider how separate pages flow together and move users through the app. Map how users work through specific tasks on your chosen app, then propose your own improved user flow.
+Here is some example user flows for an app like Venmo:
+
+* Sending payment
+* Requesting payment
+* Reminding people to pay
+* Transferring balance to bank
+* Adding a friend
+
+Brainstorm all possible actions a user can take on your chosen app. Identify the most important actions, then document the steps users follow to complete those tasks. Once you understand the key existing user flows, propose improved user flows addressing the problematic areas you found in your heuristic evaluation. Ask yourself: Why do people use this app, what features are most important to them, and what problems do they need to be solved? How does the existing design help or hinder users?
+
+### Submission - Part Two
+Create your improved users flows using [37signals Shorthand for User Flows in your sketchbooks.](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows) Create a section called "User flows" within your medium post. Write supporting copy that explains why you selected those specific user flows, and how your newly proposed user flows are an improvement.
+
