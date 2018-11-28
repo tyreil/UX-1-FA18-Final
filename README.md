@@ -41,3 +41,14 @@ Brainstorm all possible actions a user can take on your chosen app. Identify the
 ### Submission - Part Two
 Create your improved users flows using [37signals Shorthand for User Flows in your sketchbooks.](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows) Create a section called "User flows" within your medium post. Write supporting copy that explains why you selected those specific user flows, and how your newly proposed user flows are an improvement.
 
+## Part Three - Redesign
+
+Begin by wireframing a variety of solutions to the usability issues you identified with your app. These are simple, communicative, and quickly drawn. The goal is to come up with conceptual structures, not final designs. 
+Once you've completed your wireframes, you can begin to create your layouts in Sketch, utilizing a brand elements and styles as necessary to complete your redesigned interface. 
+If there is a "what you see", within the previous step's user flows, then there is a strong likelihood that you will need to create a layout for it.
+Note: You are not redesigning the whole app. You are redesigning the usability issues that you have identified in the previous steps. ("Heuristic Evaluation" & "Map User Flows")
+
+### Submission - Part Three
+
+Update your Medium link with your redesigns, and write-up your design rationale.
+
